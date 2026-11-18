@@ -1,6 +1,10 @@
 # ⚡ UI/UX VAULT PRO
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1026,50:1E1B4B,100:4338CA&height=220&section=header&text=UI%2FUX%20VAULT%20PRO&fontSize=48&fontColor=FFFFFF&fontAlignY=42&desc=Your%20Creative%20Universe%20for%20Modern%20UI%2FUX%20Design&descSize=17&descAlignY=63&animation=fadeIn" width="100%" alt="UI/UX Vault Pro Dark Indigo Banner"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/UI%2FUX-VAULT%20PRO-6366F1?style=for-the-badge" />
   <img src="https://img.shields.io/badge/140%2B-DESIGN%20RESOURCES-EC4899?style=for-the-badge" />
   <img src="https://img.shields.io/badge/4-INTERACTIVE%20TOOLS-10B981?style=for-the-badge" />
